@@ -19,6 +19,8 @@ $ cd OWScan
 
 $ chmod +x *
 
+$ls
+
 usage :
 
 $ php owscan.php
